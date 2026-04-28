@@ -1,6 +1,5 @@
-# Bridging the Gap Between Sales Performance and Inventory Levels
-
 # Multi-Channel Sales & Inventory Intelligence Dashboard
+### Bridging the Gap Between Sales Performance and Inventory Levels
 
 ## Executive Summary
 This project involves the development of a comprehensive Power BI Dashboard to analyze sales performance and inventory health across four major retail channels: Amazon, Shopify, Walmart, and Etsy. By consolidating siloed data, this tool provides real-time visibility into sale of the skus, regional demand, and SKU-level performance, enabling data-driven decisions for stock replenishment and marketing spend.
@@ -10,7 +9,8 @@ This project involves the development of a comprehensive Power BI Dashboard to a
 <img width="1145" height="660" alt="image" src="https://github.com/user-attachments/assets/e7fa532f-6874-46cd-a858-3ae1558813ed" />
 
 **Key Features Shown:**
--Dynamic Slicers: Filter by Channel, Store, Category, Brand, Responsibility, 7 to 90 days sales etc.
+* Dynamic Slicers: Filter by Channel, Store, Category, and Brand.
+* Sales Velocity: 7 to 90-day performance tracking.
 
 ## Business Problem
 *  **Inconsistent Reporting:** Difficulty in comparing performance across different sales channels.
