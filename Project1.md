@@ -1,14 +1,23 @@
 # Bridging the Gap Between Sales Performance and Inventory Levels
 
-# SKU Performance & Inventory Analytics Dashboard
+# Multi-Channel Sales & Inventory Intelligence Dashboard
 
-## Overview
-This Power BI dashboard provides a strategic deep-dive into the **Top 150 SKUs**, bridging the gap between sales velocity and stock availability. By focusing on high-impact products, this tool enables data-driven decisions to maximize revenue and minimize capital tied up in excess inventory.
+## Executive Summary
+This project involves the development of a comprehensive Power BI Dashboard to analyze sales performance and inventory health across four major retail channels: Amazon, Shopify, Walmart, and Etsy. By consolidating siloed data, this tool provides real-time visibility into sale of the skus, regional demand, and SKU-level performance, enabling data-driven decisions for stock replenishment and marketing spend.
+
+# Dashboard Preview
 
 <img width="1145" height="660" alt="image" src="https://github.com/user-attachments/assets/e7fa532f-6874-46cd-a858-3ae1558813ed" />
 
+**Key Features Shown:**
+-Dynamic Slicers: Filter by Channel, Store, Category, Brand, Responsibility, 7 to 90 days sales etc.
 
-## Key Business Insights
+## Business Problem
+*  **Inconsistent Reporting:** Difficulty in comparing performance across different sales channels.
+*  **Inventory Risk:** High refund rates in specific categories leading to lost margins.
+*  **Geographic Blindspots:** Identifying which US states drive the highest ROI to optimize logistics.
+
+## Key Insights & Business Impact
 * **Stockout Prevention:** Identifies high-velocity SKUs where current inventory levels are insufficient to meet projected demand.
 * **Inventory Health:** Visualizes the correlation between sales volume and stock on hand to spot "dead stock" versus "fast movers."
 * **Revenue Concentration:** Analysis of the Top 150 products that drive the majority of business profitability.
